@@ -1002,6 +1002,7 @@
 #include "code\game\objects\items\paper_fortune_teller.dm"
 #include "code\game\objects\items\passport.dm"
 #include "code\game\objects\items\plunger.dm"
+#include "code\game\objects\items\posilink.dm"
 #include "code\game\objects\items\rescuebag.dm"
 #include "code\game\objects\items\selection.dm"
 #include "code\game\objects\items\spirit_board.dm"
